@@ -13,7 +13,8 @@ https://spanel.netlify.com
 ```
 
 
-/******/
+---------------------------------------------
+This is the standard Svelte.js info: 
 
 # svelte app
 
