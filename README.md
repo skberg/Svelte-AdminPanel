@@ -8,9 +8,9 @@ This is a project that is made whit svelte.js and contains some other apps as we
 
 
 
-```bash
-https://spanel.netlify.com 
-```
+
+URL: https://spanel.netlify.com 
+
 
 
 ---------------------------------------------
