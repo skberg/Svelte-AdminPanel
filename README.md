@@ -2,6 +2,20 @@
 
 ---
 
+# svelte Test bead
+
+This is a project that is made whit svelte.js and contains some other apps as well, the main purpose of this task was to learn a bit about Svelt.js as a Framework, I am still in the learning prosses and this will be one of my Svelte.js task I have made. Under you will find some general info about svelte and how you can install it and run it on your pc or mac, if you want to see my task I have added a link right below this task and if you follow that link you will find my project. 
+
+
+
+
+URL: https://spanel.netlify.com 
+
+
+
+---------------------------------------------
+This is the standard Svelte.js info: 
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
